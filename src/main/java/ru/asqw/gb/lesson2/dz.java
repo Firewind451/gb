@@ -38,6 +38,7 @@ public class dz {
         else return false;
     }
 
+
     public static void  printString1(String str, int count){
         if( count > 0){
             for (int i = 0; i < count; i++){
