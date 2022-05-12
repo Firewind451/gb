@@ -1,4 +1,4 @@
-package ru.asqw.gb.lesson4;
+package ru.asqw.gb.JavaCore1.dzs.lesson4;
 
 import java.util.Random;
 import java.util.Scanner;
