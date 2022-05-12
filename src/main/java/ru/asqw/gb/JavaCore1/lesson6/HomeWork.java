@@ -1,4 +1,4 @@
-package ru.asqw.gb.lesson6;
+package ru.asqw.gb.JavaCore1.dzs.lesson6;
 
 public class HomeWork {
     public static void main(String[] args) {

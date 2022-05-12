@@ -1,4 +1,4 @@
-package ru.asqw.gb.lesson2;
+package ru.asqw.gb.JavaCore1.dzs.lesson2;
 
 public class dz {
     public static void main(String[] args) {

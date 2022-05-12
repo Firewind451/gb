@@ -1,4 +1,4 @@
-package ru.asqw.gb.dzs;
+package ru.asqw.gb.JavaCore1.dzs.dzs;
 
 import java.util.Arrays;
 import java.util.Random;
